@@ -15,7 +15,7 @@ clear;
 
 // Interrogatório
 
-printf("Retificador Meia Onda com Filtro Capacitivo (Interativo)\n\n\n Alunos:\n Diogo Campos (ELE3B)\n Gabriel Galantini (ELE3B)\n Victor Fernandes (ELE3B)\n\n---------------------------------------------------------------\n");
+printf("Retificador Meia Onda com Filtro Capacitivo (Interativo)\n\n\n Aluno: Victor Fernandes (ELE3B)\n\n---------------------------------------------------------------\n");
 
 
 printf("Preencha os valores, caso não haja preencha com 0.\nPreencha com pelo menos um valor de tensão.\n---------------------------------------------------------------\n");
